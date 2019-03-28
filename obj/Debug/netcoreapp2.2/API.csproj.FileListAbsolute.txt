@@ -1,0 +1,14 @@
+C:\Users\Khumo\Desktop\API\API\bin\Debug\netcoreapp2.2\API.deps.json
+C:\Users\Khumo\Desktop\API\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\Users\Khumo\Desktop\API\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\Users\Khumo\Desktop\API\API\bin\Debug\netcoreapp2.2\API.dll
+C:\Users\Khumo\Desktop\API\API\bin\Debug\netcoreapp2.2\API.pdb
+C:\Users\Khumo\Desktop\API\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\Users\Khumo\Desktop\API\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+C:\Users\Khumo\Desktop\API\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\Users\Khumo\Desktop\API\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\Users\Khumo\Desktop\API\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\Users\Khumo\Desktop\API\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\Users\Khumo\Desktop\API\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\Users\Khumo\Desktop\API\API\obj\Debug\netcoreapp2.2\API.dll
+C:\Users\Khumo\Desktop\API\API\obj\Debug\netcoreapp2.2\API.pdb
